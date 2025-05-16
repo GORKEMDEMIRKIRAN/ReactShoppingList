@@ -8,5 +8,5 @@ export const dataArray=[
     {id:4,title:'bread',quantity:5,completed:false},
     {id:5,title:'strawberry',quantity:2,completed:true},
     {id:6,title:'banger',quantity:2,completed:false},
-
+    {id:7,title:'banana',quantity:2,completed:false},
 ];
