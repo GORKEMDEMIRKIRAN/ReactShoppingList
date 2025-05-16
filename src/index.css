@@ -1,0 +1,61 @@
+
+:root{
+    --thema-color:rgb(163, 145, 175);
+    --button-color:grey
+}
+
+
+body{
+    background-color: grey !important;
+}
+/* ============================== */
+header{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+/* ============================== */
+.shopCart{
+    margin: 30px;
+    background-color: grey;
+}
+/* ============================== */
+form{
+    padding: 20px;
+    margin: 5px;
+    background-color:var(--thema-color);
+    border-radius: 20px;
+}
+/* ============================== */
+.ListRegion{
+    background-color:var(--thema-color);
+    border-radius: 20px;
+    padding: 20px;
+    margin: 5px;
+}
+.ListRegion .NoItems{
+    color: white;
+    font-weight: 500;
+    font-size: 40px;
+    color:red
+}
+/* ============================== */
+.item{
+    width: 120px;
+    height: 50px;
+    background-color:var(--button-color);
+    padding: 5px;
+    color: white;
+    margin: 5px;
+    border-radius: 8px;
+}
+/* ============================== */
+.summary{
+    background-color: var(--thema-color);
+    border-radius: 20px;
+    padding: 20px;
+    font-weight: 700;
+    color: white;
+    margin: 5px;
+}
+/* ============================== */
